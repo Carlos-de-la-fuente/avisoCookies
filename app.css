@@ -11,6 +11,7 @@ nav{
     background-color: rgba(0, 0, 0, .8);
     display: none;
     place-items: center;
+    z-index: 100;
 }
 .cookies{
     color: seashell;
